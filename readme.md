@@ -3,7 +3,6 @@
 
 ### 📌 README.md
 
-markdown
 # ✋ El Hareketi ile Parlaklık Kontrol Uygulaması
 
 Bu proje, MediaPipe kullanarak el hareketleriyle ekran parlaklığını kontrol etmenizi sağlar. Başparmak ve işaret parmağı arasındaki mesafeye göre ekran parlaklığı ayarlanır. Ayrıca FPS bilgisi ve mesafe değeri ekranda gösterilir.
